@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Signals
 //
-//  Created by Alex Janci on 10/23/19.
-//  Copyright © 2019 Alex Janci. All rights reserved.
+//  Created by Alex Janci on 10/23/20.
+//  Copyright © 2020 Alex Janci. All rights reserved.
 //
 
 import UIKit
@@ -14,6 +14,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        UITabBar.appearance().barTintColor = .black
+        UITabBar.appearance().tintColor = .green
         // Override point for customization after application launch.
         return true
     }

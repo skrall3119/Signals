@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  Signals
 //
-//  Created by Alex Janci on 10/23/19.
-//  Copyright © 2019 Alex Janci. All rights reserved.
+//  Created by Alex Janci on 10/23/20.
+//  Copyright © 2020 Alex Janci. All rights reserved.
 //
 
 import UIKit
